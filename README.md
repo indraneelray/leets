@@ -1,2 +1,2 @@
-# leets
-leet code for leetcode
+# Leets
+My leet code for leetcode
